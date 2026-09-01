@@ -1,0 +1,65 @@
+India Fuels Its AI Mission With NVIDIA
+From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.
+
+India is the nexus of AI innovation this week as the host of the AI Impact Summit, which brings together global heads of state and industry to chart the future of AI.
+
+At the summit, taking place in New Delhi, industry leaders, government agencies, educational institutions and startups are sharing how they’re working with NVIDIA to drive the AI industrial revolution in the world’s most populous country.
+
+These initiatives support the IndiaAI Mission, a government effort that’s infusing India’s AI ecosystem with over $1 billion to bolster the nation’s compute capacity and foster the development of sovereign AI datasets, frontier models and applications. The mission also supports AI education, startup innovation and frameworks for trustworthy AI.
+
+Read how NVIDIA is supporting IndiaAI Mission priorities including:
+
+Expanded compute capacity
+Frontier AI model development
+Impactful AI research and innovation
+NVIDIA Cloud Partners Boost India AI Infrastructure
+To achieve its AI ambitions, India is investing heavily in its computing infrastructure. Under the IndiaAI Compute Pillar, the nation is building out its AI cloud offerings with systems including tens of thousands of NVIDIA GPUs.
+
+NVIDIA is collaborating with next‑generation cloud providers Yotta, L&T and E2E Networks to deliver advanced AI factories to meet India’s growing need for AI compute and enable it to develop AI models and services that drive innovation.
+
+Yotta is a hyperscale data center and cloud provider building large‑scale sovereign AI infrastructure for India, branded as Shakti Cloud, powered by over 20,000 NVIDIA Blackwell Ultra GPUs. Its campuses in Navi Mumbai and Greater Noida deliver GPU‑dense, high‑bandwidth AI cloud services on a pay‑per‑use model, designed to make advanced AI training and inference affordable and compliant for Indian enterprises and public sector customers.
+Larsen & Toubro (L&T) is building sovereign, gigawatt-scale NVIDIA AI factory infrastructure in India to reinforce the country’s position as a global AI powerhouse in alignment with the IndiaAI Mission. The roadmap includes initial expansions in Chennai to 30 megawatts as well as a new 40-megawatt facility in Mumbai. These facilities will power sovereign cloud workloads and hyperscale deployments, delivering secure, energy‑efficient infrastructure for advanced AI applications.
+E2E Networks is building an NVIDIA Blackwell GPU cluster on its TIR platform, hosted at the L&T Vyoma Data Center in Chennai. The TIR cloud compute platform will feature NVIDIA HGX B200 systems and NVIDIA Enterprise software as well as NVIDIA Nemotron open models to supercharge sovereign development across agentic AI, healthcare, finance, manufacturing and agriculture.
+India’s AI cloud infrastructure will host workloads as well as manufacture intelligence for model training, fine-tuning and high‑scale inference. Capacity within these data centers will be reserved for model builders, startups, researchers and enterprises to build, fine-tune and deploy AI in India.
+
+Further expanding access to NVIDIA AI infrastructure in India, Netweb Technologies is launching its Tyrone Camarero AI Supercomputing systems built on the NVIDIA Grace Blackwell architecture. The NVIDIA GB200 NVL4 platforms — manufactured in India by Netweb under the government’s “Make in India” mission — feature four NVIDIA Blackwell GPUs and two NVIDIA Grace CPUs to power scientific computing, model training and inference.
+
+NVIDIA and India AI-Native Companies Build the Nation’s Frontier AI Models
+
+Another key goal of the IndiaAI Mission — led by its Innovation Center Pillar — is to develop and deploy foundation models trained on India-specific data and domestic AI infrastructure.
+
+For a nation as multilingual as India — with 22 constitutionally recognized languages and over 1,500 more recorded by the country’s census — frontier AI models are a powerful tool to help its more than 1.4 billion residents interact with technology in their primary language.
+
+Organizations across the country are building AI applications with NVIDIA Nemotron to support public-sector services, financial systems and enterprise operations in multiple languages.
+
+NVIDIA Nemotron open models, datasets, tools and libraries enable organizations to build frontier speech, language and multimodal models at scale and across languages for government, consumer and enterprise applications. It includes India-specific datasets like Nemotron-Personas-India, an open dataset built from publicly available census data using NeMo Data Designer that includes 21 million fully synthetic Indic personas to enable population-scale sovereign AI development.
+
+Adopters in India of Nemotron — and NeMo Curator, an open library for multilingual and multimodal data curation — include:
+
+BharatGen, a sovereign AI initiative supported by the Government of India aimed at strengthening the country’s multilingual and multimodal AI ecosystem. As part of this effort, BharatGen has developed a 17-billion-parameter mixture-of-experts (MoE) model from the ground up, using the NVIDIA NeMo framework for pretraining and the NeMo RL library for post-training. The open source models are designed to power applications across public services, agriculture, security and cultural preservation.
+Chariot, a company building AI systems for speech and multimodal communication. Using the NeMo framework, Chariot is developing an 8-billion-parameter model for real-time text to speech, supporting applications that improve accessibility and digital interaction across consumer and enterprise use cases.
+Commotion, backed by Tata Communications, which has developed an AI operating system to automate complex enterprise workflows. By integrating NVIDIA Nemotron models and speech capabilities, the platform enables governed, production-grade AI deployments, helping enterprises scale AI across critical business operations.
+CoRover.ai, which has deployed NVIDIA Nemotron Speech open models and NVIDIA Riva libraries for end-to-end, ultralow-latency speech AI — including the NVIDIA Riva Whisper v3 model for multilingual automatic speech recognition in English, Hindi and Gujarati. Powering customer service applications for the Indian Railway Catering and Tourism Corporation, CoRover’s platform supports around 10,000 concurrent users and more than 5,000 daily ticket bookings.
+Gnani.ai, which offers enterprises a multilingual agentic AI platform that can interact with customers through voice and text. Gnani is building a 14-billion-parameter speech-to-speech model built on NVIDIA Nemotron Speech models, datasets and NeMo libraries including NeMo libraries through NVIDIA Cloud Partner E2E Networks — with plans to expand to a 32-billion-parameter model. By fine-tuning the NVIDIA Nemotron Speech model for Indic languages, Gnani has achieved a 15x reduction in inference costs, enabling the company to scale to support more than 10 million calls per day for customers in telecom, banking and hospitality.
+National Payments Corporation of India (NPCI), which operates India’s retail payment and settlement systems and is deploying AI models to support digital financial services. Building on its production deployment of the AI-powered UPI Help Assistant — a pilot initiative for India’s Unified Payments Interface (UPI) — NPCI is exploring training FiMi, a financial model for India, using the NVIDIA Nemotron 3 Nano model and its own datasets. The model, fine-tuned with the NeMo framework, will support multilingual customer service across India’s banking ecosystem.
+Sarvam.ai, a leader in full-stack sovereign generative AI that provides enterprise-grade multimodal, speech-to-text, text-to-speech, translation and reasoning models. The company is open sourcing its Sarvam-3 series of text and multimodal large language model variants, trained for 22 Indic languages, English math and code. Sarvam is using NeMo Curator to construct high-quality multilingual training data while adopting a subset of NVIDIA Nemotron datasets. The foundation models were pre-trained from scratch across 3B, 30B and 100B parameter sizes using the NVIDIA NeMo framework and Megatron-LM, and post-trained with NeMo RL. Training was conducted on NVIDIA H100 GPUs through NVIDIA Cloud Partners, including Yotta. With these sovereign models, Sarvam.ai’s new Pravah platform enables production-grade inference for Indian government and enterprise applications.
+Soket.ai, which is using a modern large-model training stack on open NVIDIA Nemotron technologies, including NVIDIA Megatron and NVIDIA NeMo. These open source components enable scalable experimentation, training stability and efficient GPU usage, while preserving full control over the model’s data, design and life cycle.
+Tech Mahindra, which has developed an 8-billion-parameter foundation model tailored for Indian languages and dialects. The model, built with Nemotron, is being designed for use in classrooms, where it can help make educational materials available in a wider range of Indian languages including Hindi, Maithili and Dogri. The team generated synthetic data with Nemotron libraries and tools such as NeMo Data Designer and conducted supervised fine-tuning with NeMo AutoModel.
+Zoho, which is advancing its Zia LLM platform with proprietary models built using NVIDIA NeMo on the NVIDIA Blackwell and Hopper platforms, integrated across its software-as-a-service applications. This privacy-first architecture delivers contextual, production-grade AI for critical business workflows like customer relation management and finance, ensuring technology sovereignty and enterprise security at a global scale.
+Developers building sovereign AI systems can access NVIDIA Nemotron and NeMo today. Nemotron models can be deployed anywhere on NVIDIA-accelerated infrastructure — including on NVIDIA DGX Spark, which is now available in India through qualified partners including PNY, RP tech India, Tech Data, a TD SYNNEX Company, as well as on NVIDIA Marketplace. A version manufactured in India as part of the “Make in India” initiative is available through Netweb.
+
+DGX Spark also runs sovereign AI models by Indian model builders including Sarvam.ai.
+
+
+Government and Academic Partnerships to Support Research in AI for Science and Engineering
+Under its Application Development Initiative Pillar, the IndiaAI Mission is supporting high-impact AI applications — and its Startup Financing Pillar aims to democratize funding availability for AI entrepreneurs across the country.
+
+NVIDIA is collaborating with government agencies, research institutions, venture capital firms and startups to advance projects aligned with these goals.
+
+NVIDIA is collaborating with the Anusandhan National Research Foundation (ANRF), a statutory body under the Indian government, to spur even more cutting-edge AI research across the nation’s leading academic institutions. The initiative will support ANRF’s AI for Science & Engineering program and future AI programs.
+
+NVIDIA will offer ANRF grantee institutions complimentary access to NVIDIA AI Enterprise software and specialized technical mentorship through the NVIDIA AI Technology Center. The collaboration will also include AI bootcamps, workshops and hackathons to strengthen India’s AI research ecosystem.
+
+NVIDIA is also partnering with prominent venture capital firms including Peak XV, Z47, Elevation Capital,, Nexus Venture Partners and Accel India to identify and fund promising startups of all stages that are building AI solutions for India and international use. More than 4,000 of India’s AI startups are already part of the NVIDIA Inception program.
+
+For more from the India AI Summit, learn how NVIDIA and global industrial software leaders are partnering with India’s largest manufacturers — and how India’s global systems integrators are building enterprise AI agents with NVIDIA.

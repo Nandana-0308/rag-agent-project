@@ -1,0 +1,36 @@
+INDIAai
+
+Started in 2021 as a project and established in 2023 as an independent business division under DIC, INDIAai, The National AI Portal of India marked as a trailblazing initiative towards application of AI in day to day lives of citizens of India. As AI assumes the mantle of transformative technology, INDIAai arises as a centralized knowledge repository dedicated to this revolutionary field and its allied domains. Its establishment acknowledges the inevitability of AI's influence and heralds a proactive approach to harnessing its potential.
+
+INDIAai's role extends far beyond a repository; it's a beacon guiding various stakeholders—ranging from aspiring entrepreneurs and students to seasoned professionals and academics—toward the frontiers of AI.
+By fostering a harmonious AI ecosystem, characterized by excellence and leadership, INDIAai functions as a catalyst for the nation's journey towards AI-driven economic growth and societal progress. In a world increasingly shaped by AI's contours, INDIAai's initiatives promise to propel India's ascendancy as a frontrunner in the global AI landscape.
+
+
+
+--------------------------------------------------------------
+
+Cabinet Approves Over Rs 10,300 Crore for IndiaAI Mission, will Empower AI Startups and Expand Compute Infrastructure Access
+
+“This approval of over 10,300 crores for the IndiaAI program will catalyze India’s AI ecosystem and position it as a force shaping the future of AI for India and for the world”: Union Minister Rajeev Chandrasekhar
+
+“IndiaAI Financial Outlay to Benefit Kerala with its Immense Potential in AI Innovation & Startups”:  Union Minister Rajeev Chandrasekhar
+प्रविष्टि तिथि: 07 MAR 2024 8:05PM by PIB Delhi
+The Cabinet has approved an allocation of over Rs 10,300 crore for the IndiaAI Mission today, marking a significant step towards bolstering India’s AI ecosystem. This substantial financial infusion, slated over the next five years, is poised to catalyse various components of the IndiaAI Mission, including pivotal initiatives like the IndiaAI Compute Capacity, IndiaAI Innovation Centre (IAIC), IndiaAI Datasets Platform, IndiaAI Application Development Initiative, IndiaAI FutureSkills, IndiaAI Startup Financing, and Safe & Trusted AI.
+
+The overarching aim of this financial outlay is to ensure a structured implementation of the IndiaAI Mission through a public-private partnership model aimed at nurturing India’s AI innovation ecosystem.
+
+A cornerstone of this effort is the IndiaAI Compute Capacity, envisioned to erect a cutting-edge, scalable AI computing infrastructure by deploying over 10,000 Graphics Processing Units (GPUs) through strategic public-private collaborations.
+
+According to the Union Minister of State for Electronics and IT, Skill Development and Entrepreneurship, and Jal Shakti, Shri Rajeev Chandrasekhar, this approval will benefit Indian citizens and contribute to the expansion of India’s economy.
+
+Shri Rajeev Chandrasekhar said, “AI is going to be the kinetic enabler for India’s digital economy. Prime Minister Modi ji has always said that India is going to fully exploit the power of AI for the benefit of its citizens and for the expansion of its economy. I am grateful and thankful to the Hon’ble PM for the approval of more than 10,000 crores for the India AI program, which will catalyze India’s AI ecosystem and position it as a force shaping the future of AI for India and for the world. This will benefit states like Kerala which, for years, missed the bus in creating a robust tech ecosystem. There is immense potential among Young Indians in Kerala and with this financial outlay will help realise their ambitions.”
+
+This financial outlay will fortify the IndiaAI Startup Financing mechanism, facilitating streamlined access to funding for budding AI startups and catalyzing their journey from product development to commercialization. The proposal also includes funding provisions for industry-led AI projects aimed at fostering social impact, propelling innovation and entrepreneurship.
+
+The IndiaAI Innovation Centre (IAIC) which will be a leading academic institution, ensuring streamlined implementation and retention of top research talent. Funds approved by the Cabinet will enable IAIC to spearhead the development and deployment of foundational models, with a specific emphasis on indigenous Large Multimodal Models (LMMs) and domain-specific models, leveraging edge and distributed computing for optimal efficiency.
+
+The IndiaAI Datasets Platform, which will be developed by the Independent Business Division (IBD) of IndiaAI, is slated to receive a boost to enhance accessibility, quality, and utility of public sector datasets, in order to ensure data-driven governance and catalyzing AI-based innovation and research.
+
+Simultaneously, the IndiaAI FutureSkills program will focus on expanding the reach of AI education by increasing the accessibility of graduate and post-graduate AI programs, while also establishing Data and AI Labs that will not just be spread across major Indian cities but also smaller towns and cities to impart foundational-level courses in Data and AI.
+
+Aligned with the broader vision of the IndiaAI Mission, these initiatives aim to bolster India’s global leadership in AI, foster technological self-reliance, ensure ethical and responsible AI deployment, and democratize the benefits of AI across all strata of society.

@@ -1,0 +1,71 @@
+EMBRACING ARTIFICIAL INTELLIGENCE FOR
+SUSTAINABILITY & LIFE SKILLS
+An International Bhutan Conference Proceedings
+
+
+AI-Driven Innovations and Their Role in
+Transforming Indian Industries
+Ms. Jyoti Gupta1
+, Ms. Puja Agrawal2
+1Research Scholar, Department of Commerce ,Government College Ajmer , Rajasthan.
+2Research Scholar, Department of Commerce ,Government College Ajmer , Rajasthan.
+Abstract
+Based only on secondary data extracted from government papers, industry publications, and academic
+studies, this article seeks to explore how AI-driven breakthroughs can revolutionise Indian sectors. It
+then looks at AI adoption in critical sectors, like manufacturing and healthcare, retail, and the finance
+sector too, before gauging how the technology is helping firms bring operational efficiency, reduce
+costs, and gain a competitive edge in the market. Studies of statistical data—correlation and
+regression, for example—show large increases in productivity and decision-making quality from AI
+implementation across a broad range of products. The findings highlight that AI is fostering invention
+and growth, but it also unearths challenges around infrastructure and skilled workforce deficits. This
+contributes from an Indian perspective on how AI is transforming industries in India, identifying issues
+related to implementation and suggesting a way forward with the development of sector-specific tools
+that are tailored for use within corresponding sectors. These results further highlight the need for
+norms around all-encompassing AI efforts in order to permit its broad application across entire
+sectors.
+Keyword: Artificial Intelligence, Indian Sectors, Operational Efficiency, Competitive Edge,
+Productivity, Decision-Making
+INTRODUCTION
+Such powered intelligent decision-making is totally reshaping global industries
+AI in the form of artificial intelligence developed, operational performance
+improvement, and accelerated innovation. India AI has been witnessing a growing
+trend of AI adoption across various industries in India as companies strive to
+remain competitive on the global stage. Indian industries are witnessing
+tremendous transformations with major breakthroughs in machine learning, deep
+learning, and robots. We are already using AI to streamline supply chains,
+improve customer service, and optimize manufacturing processes, which has
+resulted in improved healthcare outcomes. Be it manufacturing, retail, healthcare,
+or banking, AI has its own significant stake in helping Indian organisations be
+more efficient and cost-effective while staying ahead of the competition.
+In the industrial space, for example, we are starting to see AI implemented in
+predictive maintenance processes as well as quality control and process
+automation, leading directly (or indirectly) to lower downtime and operational
+costs. The healthcare industry is using AI to provide diagnostic tools for patient
+care and medication research, reducing the burden on health workers. Retail-AI
+helped organisations revamp their retail strategies with ways of being more
+consumer-orientated and trading, inventory management, and demand forecasting
+by adopting AI. AI in the financial services In addition to automating
+administrative tasks, AI is also transforming fraud detection and algorithmic
+trading, fostering unprecedented levels of personalised (and less expensive)
+financialadvice.
+
+AI is difficult. The second reason for unending
+disappointment The adoption of AI (and other
+technologies) in industry is faced with challenges including
+infrastructure restrictions, high implementation costs, a
+lack of qualified workforce, and concerns related to data
+privacy. Particularly in the public sector, where stringent
+rules and limited funding universally prevent pace-setting
+private firms from deploying AI. Poorer businesses,
+meanwhile, might find themselves lagging behind as
+technology improves faster than they can acquire it,
+increasing the digital divide.
+The purpose of this research is to provide a complete
+picture of how AI is transforming Indian sectors using
+secondary data from various sources. This research, which
+examines the pros and cons of AI adoption, will provide a
+roadmap for how we might expect AI to scale out in an
+Indian industrial setting. Additionally, the study will list
+which industrial sectors would benefit most from AI
+integration and where action is needed to accelerate
+adoption of AI, leading to a fairer change in industries.
