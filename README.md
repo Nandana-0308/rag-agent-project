@@ -1,6 +1,4 @@
-import pypandoc
 
-readme = r"""# 🔍 Agentic RAG Research Assistant
 
 An AI-powered **Retrieval-Augmented Generation (RAG) Research Assistant** built with Python, Streamlit, Google Gemini, ChromaDB, and Sentence Transformers.
 
